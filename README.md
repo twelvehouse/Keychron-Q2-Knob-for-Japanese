@@ -11,4 +11,4 @@ Keychron Q2 (Knob) for Japanese users
 - Fn2  
 ![4](https://user-images.githubusercontent.com/16432294/173406738-552bfeda-44e1-4002-8ff5-dfe4e9c5ff2e.png)
 - Game mode (Mac mode)  
-![0](https://user-images.githubusercontent.com/16432294/173406853-07e7faa8-bd6e-4cc3-8d8a-7790b8960d07.png)
+![5](https://user-images.githubusercontent.com/16432294/173829712-e8948c04-3813-4dba-9286-4d39d0472725.png)
